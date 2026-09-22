@@ -14,7 +14,7 @@ main {
 .grid__container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: 1.6fr 1.6fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     gap: 10px;
     width: 80%;
     height: 80vh;
